@@ -1,19 +1,26 @@
+
+nav {
+	text-align: center;
+	font-size: 25px;
+}
+
+
 h1 { text-align: center;
-	color: darkblue;
+	color: #FE654F;
 	text-align: ;
 }
 h2 { text-align: center;
-	color: darkblue;
+	color: #FE654F;
 }
-h3 { text-align: center;
-	color: darkblue;
+h3 {
+	color: #FE654F;
 }
 p{
-	background-color: skyblue ;
+	background-color: 
 }
 body {
 	font-family:Roboto,sans-serif ;
-    background-color: skyblue
+    background-color: #FED99B
 }
 img {
 	height: 400px ;
