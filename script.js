@@ -9,7 +9,7 @@ if ((isOk == "oui") || (isOk == "OUI") || (isOk == "Oui"))
 	//fair un truc
 	console.log("l'utilisateur a fait de la céramique")
 }
-else if ((isOk == "non") || (isOk"NON") || (isOk"Non"))
+else if ((isOk == "non") || (isOk == "NON") || (isOk == "Non"))
 {
 	//faire autre chose
 	console.log("l'utilisateur n'a pas fait de céramique")
